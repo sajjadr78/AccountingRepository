@@ -1,0 +1,25 @@
+C:\Users\stajm\source\repos\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.Utility\bin\Debug\PersianDateTime.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Utility\bin\Debug\PersianDateTime.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csprojResolveAssemblyReference.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Utility\bin\Debug\PersianDateTime.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Utility\bin\Debug\PersianDateTime.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CopyComplete
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+D:\proj\main proj\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\proj\main proj\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\proj\main proj\Accounting\Accounting.Utility\bin\Debug\PersianDateTime.dll
+D:\proj\main proj\Accounting\Accounting.Utility\bin\Debug\PersianDateTime.xml
+D:\proj\main proj\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+D:\proj\main proj\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+D:\proj\main proj\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CopyComplete
+D:\proj\main proj\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\proj\main proj\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb

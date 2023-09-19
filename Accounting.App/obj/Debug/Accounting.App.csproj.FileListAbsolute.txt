@@ -1,0 +1,122 @@
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.Customers.frmAddOrEditCustomer.resources
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewTransaction.resources
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmReport.resources
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\PersianDateTime.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.App\bin\Debug\PersianDateTime.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojResolveAssemblyReference.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\PersianDateTime.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\PersianDateTime.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmReport.resources
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.Customers.frmAddOrEditCustomer.resources
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewTransaction.resources
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\PersianDateTime.dll
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\PersianDateTime.xml
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.xml
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+D:\proj\main proj\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmReport.resources
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.Customers.frmAddOrEditCustomer.resources
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewTransaction.resources
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+D:\proj\main proj\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb

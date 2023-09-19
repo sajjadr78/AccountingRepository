@@ -1,0 +1,25 @@
+C:\Users\stajm\source\repos\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.ViewModels\bin\Debug\PersianDateTime.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.ViewModels\bin\Debug\PersianDateTime.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.ViewModels\bin\Debug\PersianDateTime.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.ViewModels\bin\Debug\PersianDateTime.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CopyComplete
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+D:\proj\main proj\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+D:\proj\main proj\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+D:\proj\main proj\Accounting\Accounting.ViewModels\bin\Debug\PersianDateTime.dll
+D:\proj\main proj\Accounting\Accounting.ViewModels\bin\Debug\PersianDateTime.xml
+D:\proj\main proj\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+D:\proj\main proj\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+D:\proj\main proj\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CopyComplete
+D:\proj\main proj\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+D:\proj\main proj\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb

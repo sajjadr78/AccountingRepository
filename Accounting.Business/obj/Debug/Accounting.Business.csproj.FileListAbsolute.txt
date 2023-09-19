@@ -1,0 +1,51 @@
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.Utility.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.Utility.pdb
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\PersianDateTime.dll
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\bin\Debug\PersianDateTime.xml
+C:\Users\stajm\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojResolveAssemblyReference.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\Accounting.Utility.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\PersianDateTime.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\Accounting.Utility.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\PersianDateTime.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\#SAjjAD\source\repos\ConsoleApp7\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\Accounting.Utility.dll
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\PersianDateTime.dll
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\Accounting.Utility.pdb
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\PersianDateTime.xml
+D:\proj\main proj\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+D:\proj\main proj\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+D:\proj\main proj\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+D:\proj\main proj\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
+D:\proj\main proj\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+D:\proj\main proj\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
